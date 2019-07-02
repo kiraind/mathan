@@ -1,0 +1,22 @@
+{
+  "name": "@kiraind/mathan",
+  "version": "1.0.0",
+  "description": "JS library with math stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiraind/mathan.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "kiraind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiraind/mathan/issues"
+  },
+  "homepage": "https://github.com/kiraind/mathan#readme"
+}
